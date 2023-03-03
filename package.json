@@ -27,7 +27,7 @@
   "peerDependencies": {
     "react": "^16.8.6 || ^17 || ^18",
     "react-native": ">=0.50.0",
-    "react-native-svg": "^12.1.1"
+    "react-native-svg": "^12.1.1 || ^13"
   },
   "devDependencies": {
     "@babel/runtime": "^7.15.4",
